@@ -35,6 +35,4 @@
   <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p></div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
- <p align="center">
-
-<p align="center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=slashharsh&theme=dark" alt="slashharsh" width="500" /></p>
+<p align=" center"><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=slashharsh&theme=dark" alt="slashharsh" width="500" /></p>
