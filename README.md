@@ -32,7 +32,7 @@
  <img src="https://access.redhat.com/webassets/avalon/g/shadowman-200.png" alt="redhat" width="50" height="50"/> 
   <img src="https://img.icons8.com/plasticine/100/000000/canva.png" alt="canva" width="50" height="50" />
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="50" height="50"/> 
-  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p></div>
-
+  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="50" height="50"/></p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="50" height="50"/></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
 <p align=" center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slashharsh&theme=dark" alt="slashharsh" width="700" /></p>
