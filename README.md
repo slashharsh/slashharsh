@@ -22,7 +22,7 @@
  
  
  <h3>📚 Skills </h3>
- <p><img src="https://c7.uihere.com/files/359/509/99/angle-brand-green-apps-terminal-pc-104.jpg" alt="Shell" height="50" width="50"/>
+ <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa4e2a5-78d4-4924-8c60-6e53429eaf65/dc5p21n-8119c7a9-d550-424f-a1be-a7d47e32cc9c.png/v1/fill/w_1600,h_1600,strp/unix_terminal_logo_by_dollarakshay_dc5p21n-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xNjAwIiwicGF0aCI6IlwvZlwvYWFhNGUyYTUtNzhkNC00OTI0LThjNjAtNmU1MzQyOWVhZjY1XC9kYzVwMjFuLTgxMTljN2E5LWQ1NTAtNDI0Zi1hMWJlLWE3ZDQ3ZTMyY2M5Yy5wbmciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.TyGtWA_j_J_qVRajE-KY6BrQFnng9k5gCw86ME61SHg" alt="Shell" height="50" width="50"/>
  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> 
  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="50" height="50"/>
  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="50" height="50"/> 
