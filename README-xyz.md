@@ -1,4 +1,5 @@
-<div align="center">
+
+<!-- <div align="center">
 <h3>👋 HI THERE, I'M HARSH!😎</h3>
 <!--<h4>⚡ I Believe in Being a Participant🔥" </h4> </div>
 <img src="https://github.com/harshmangal1108/harshmangal1108/blob/master/%7B104BFCD4-DECD-4790-88B5-C3FAED644E01%7D.png.jpg">-->
@@ -36,3 +37,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins" width="50" height="50"/></div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshmangal1108" alt="harshmangal1108" /> </p>
 <p align=" center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slashharsh&theme=dark" alt="slashharsh" width="700" /></p>
+ -->
